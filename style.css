@@ -1,0 +1,58 @@
+img{
+    width: 75%;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-left: 35px;
+}
+.container{
+    max-width: 300px;
+    margin:  0 auto;
+    margin-top: 10vh;
+}
+.card{
+    border:1px solid rgb(158, 153, 153);
+    border-radius: 12px;
+    padding: 8px;
+    background-color: rgb(2, 53, 2);
+    color: white;
+    position: relative;
+}
+li{
+    list-style: none;
+    justify-content: space-between;
+    padding-top: 8px;
+    
+}
+ul{
+    display: flex;
+    border: 1px solid black;
+    height: 7vh;
+    background-color: rgb(6, 202, 137);
+}
+.one{
+    width: 80%;
+}
+h4{
+    margin: 0 auto;
+    display: block;
+    margin-left: 120px;
+}
+button
+{
+    border-radius: 24px;
+    padding: 12px 13px;
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+}
+.two{
+    background-color: rgb(3, 24, 14);
+    width: 20%;
+}
+.two i{
+    position: absolute;
+    right: 25px;
+}
+.card-details{
+    padding: 8px 8px 16px 8px;
+}
